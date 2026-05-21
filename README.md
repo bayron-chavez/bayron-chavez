@@ -19,10 +19,5 @@ Como **Ingeniero Constructor** y **Analista Programador**, me apasiona cerrar la
 * **[ProcesadorDocumentosIA](https://github.com/bayron-chavez/procesador-documentos-ia):** Solución de automatización documental construida con Python y CustomTkinter, enfocada en agilizar el procesamiento de textos y mejorar la productividad operativa.
 * **[MacroExpander]:** Herramienta de automatización de texto para mejorar la productividad en atención al cliente, construida con CustomTkinter.
 
-### 📈 Conectemos
-* 📍 Ubicado Chile.
-* 📧 Disponible para colaboraciones en el sector construcción-tech.
-* 🔗 (https://www.linkedin.com/in/bayron-chavez-matamala-0b88882a4/)
-
 ---
 *Siempre estoy buscando nuevas formas de optimizar procesos y aprender tecnologías emergentes. ¡Hablemos de código y construcción!*
