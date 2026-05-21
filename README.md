@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola, soy Bayron Andres! 👋
 
-<!--
-**bayron-chavez/bayron-chavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como **Ingeniero Constructor** y **Analista Programador**, me apasiona cerrar la brecha entre la gestión de obras y el desarrollo de software. Actualmente, me especializo en automatizar procesos para la industria AEC (Arquitectura, Ingeniería y Construcción).
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+* **[GoogleExtensionResumenesConIA](https://github.com/bayron-chavez/resumidor-gemini-universal):** Extensión de navegador impulsada por IA para generar resúmenes automáticos, diseñada para optimizar la lectura y el análisis de contenido web en tiempo real.
+* **[ProcesadorDocumentosIA](https://github.com/bayron-chavez/procesador-documentos-ia):** Solución de automatización documental construida con Python y CustomTkinter, enfocada en agilizar el procesamiento de textos y mejorar la productividad operativa.
+* **[MacroExpander]:** Herramienta de automatización de texto para mejorar la productividad en atención al cliente, construida con CustomTkinter.
+
+### 📈 Conectemos
+* 📍 Ubicado Chile.
+* 📧 Disponible para colaboraciones en el sector construcción-tech.
+* 🔗 [Enlace a tu LinkedIn]
+
+---
+*Siempre estoy buscando nuevas formas de optimizar procesos y aprender tecnologías emergentes. ¡Hablemos de código y construcción!*
