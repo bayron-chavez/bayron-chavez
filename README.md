@@ -22,7 +22,7 @@ Como **Ingeniero Constructor** y **Analista Programador**, me apasiona cerrar la
 ### 📈 Conectemos
 * 📍 Ubicado Chile.
 * 📧 Disponible para colaboraciones en el sector construcción-tech.
-* 🔗 [Enlace a tu LinkedIn]
+* 🔗 [(https://www.linkedin.com/in/bayron-chavez-matamala-0b88882a4/)]
 
 ---
 *Siempre estoy buscando nuevas formas de optimizar procesos y aprender tecnologías emergentes. ¡Hablemos de código y construcción!*
